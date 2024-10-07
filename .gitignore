@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+venv/
+
+# IDE settings (optional, include if you're using these IDEs)
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints (if applicable)
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+
